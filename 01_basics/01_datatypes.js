@@ -6,8 +6,8 @@ console.log(typeof stringData);
 let numData = 232;
 console.log(typeof numData);
 
-console.log("type of null is" + typeof null);
-console.log("type of undefined is"+ typeof undefined)
+console.log("type of null is " + typeof null);
+console.log("type of undefined is "+ typeof undefined)
 
 // Types of datatype:
 
